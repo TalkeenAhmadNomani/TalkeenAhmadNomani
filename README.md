@@ -1,8 +1,8 @@
 # Web Developer | Machine Learning Enthusiast | Problem Solver🚀
 ## About Me👨‍💻 
-Coming from a Mechanical Engineering background at NIT Silchar, I have always been curious about solving problems and building things. While my degree shaped my analytical thinking, my passion led me to Software Development and AI. Despite not having a formal CS degree, I dived deep into MERN Stack Development, Machine Learning, and Data Structures & Algorithms, proving that dedication and skill matter more than background.
+I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned into Web Development and Machine Learning out of sheer passion. Despite not having a CS background, I have self-taught programming and built real-world projects, proving that dedication and skills matter more than degree labels.
 
-From mastering React.js in my internship at Get Your Homes, where I built an interactive, real-time dashboard, to developing AI-powered applications from scratch, I have continuously pushed my limits and thrived in the tech world. My journey is a testament that curiosity and consistency can break any boundaries.
+From developing React.js applications in my internship at Get Your Homes to building AI-powered and NLP-based applications from scratch, I have continuously pushed my limits to thrive in the tech world. My journey showcases that curiosity, consistency, and hard work can break any barriers.
 
  # Past Experience💼
 ## React js Frontend Developer Intern | Get Your Homes
