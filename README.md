@@ -5,7 +5,7 @@ Coming from a Mechanical Engineering background at NIT Silchar, I have always be
 From mastering React.js in my internship at Get Your Homes, where I built an interactive, real-time dashboard, to developing AI-powered applications from scratch, I have continuously pushed my limits and thrived in the tech world. My journey is a testament that curiosity and consistency can break any boundaries.
 
  # Past Experience💼
-🔹 Frontend Developer Intern | Get Your Homes
+## React js Frontend Developer Intern | Get Your Homes
 📅 Duration: 2 months
 🔧 Tech Stack: React.js, Framer Motion, Context API, Tailwind CSS
 →Built a fully responsive and interactive dashboard that dynamically updates real-time data.
