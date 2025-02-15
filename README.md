@@ -7,32 +7,38 @@ From mastering React.js in my internship at Get Your Homes, where I built an int
  # Past Experience💼
 ## React js Frontend Developer Intern | Get Your Homes
 📅 Duration: 2 months
-🔧 Tech Stack: React.js, Framer Motion, Context API, Tailwind CSS
+
+→ Tech Stack: React.js, Framer Motion, Context API, Tailwind CSS
 →Built a fully responsive and interactive dashboard that dynamically updates real-time data.
 →Integrated Framer Motion to add smooth animations and enhance user experience.
 →Worked closely with the design team and project manager, improving collaboration and communication skills.
 →Strengthened expertise in React Hooks, Context API, and component reusability.
 
 ## Frontend Development Intern | NEXPAN technologies
+
 📅 Duration: 1 month
+
 🔧 Tech Stack: HTML, CSS, JavaScript
 →Developed a portfolio website, an interactive quiz application, and a landing page for the startup.
 →Gained hands-on experience in responsive web design and UI/UX principles.
 
 # Notable Projects🚀
 ## AI-Powered Text-to-Image Generator
+
 → Built using MERN Stack & Hugging Face AI Models
 → Saves generated images on Cloudinary
 → Users can download images seamlessly
 → UI designed with Tailwind CSS
 
 ## Resume Screening NLP Application
+
 → Developed from scratch using NLP techniques
 → Analyzes resumes against job descriptions
 → Identifies missing keywords, calculates match percentage
 → Built with Streamlit & PyPDF2
 
 ## ATS Resume Screening (Google Gemini AI)
+
 → Uses Google Gemini AI to analyze resumes against job descriptions
 → Extracts text from PDFs, evaluates ATS compatibility, and calculates match percentage
 → Identifies missing keywords and provides profile summaries
