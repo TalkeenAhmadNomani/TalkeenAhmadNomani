@@ -23,6 +23,7 @@ From developing React.js applications in my internship at Get Your Homes to buil
 →Gained hands-on experience in responsive web design and UI/UX principles.
 
 # Notable Projects🚀
+
 ## AI-Powered Text-to-Image Generator
 
 → Built using MERN Stack & Hugging Face AI Models
@@ -43,6 +44,12 @@ From developing React.js applications in my internship at Get Your Homes to buil
 → Extracts text from PDFs, evaluates ATS compatibility, and calculates match percentage
 → Identifies missing keywords and provides profile summaries
 → Developed using Streamlit, Google Generative AI, and PyPDF2
+
+## Real-Time Crypto Tracker
+→ Built using React.js & Chakra UI
+→ Fetches live data for 149+ cryptocurrencies from CoinGecko API
+→ Displays 24-hour price variations, highs, and lows
+→ Fully responsive and user-friendly UI 🚀
 
 ## Student Marks Prediction (ML Model)
 → Implements multiple ML models internally
