@@ -1,4 +1,4 @@
-# Web Developer | Machine Learning Enthusiast | Problem Solver🚀
+# I am Data Science and Machine Learning enthusiast | Web Developer | Problem Solver🚀
 ## About Me👨‍💻 
 I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned into Web Development and Machine Learning out of sheer passion. Despite not having a CS background, I have self-taught programming and built real-world projects, proving that dedication and skills matter more than degree labels.
 
