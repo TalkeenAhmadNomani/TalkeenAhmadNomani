@@ -14,14 +14,6 @@ From developing React.js applications in my internship at Get Your Homes to buil
 →Worked closely with the design team and project manager, improving collaboration and communication skills.
 →Strengthened expertise in React Hooks, Context API, and component reusability.
 
-## Frontend Development Intern | NEXPAN technologies
-
-📅 Duration: 1 month
-
-🔧 Tech Stack: HTML, CSS, JavaScript
-→Developed a portfolio website, an interactive quiz application, and a landing page for the startup.
-→Gained hands-on experience in responsive web design and UI/UX principles.
-
 # Notable Projects🚀
 
 ## AI-Powered Text-to-Image Generator
