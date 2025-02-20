@@ -1,61 +1,6 @@
 # I am Data Science and Machine Learning enthusiast | Web Developer | Problem Solver🚀
 ## About Me👨‍💻 
-I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned into Web Development and Machine Learning out of sheer passion. Despite not having a CS background, I have self-taught programming and built real-world projects, proving that dedication and skills matter more than degree labels.
-
-From developing React.js applications in my internship at Get Your Homes to building AI-powered and NLP-based applications from scratch, I have continuously pushed my limits to thrive in the tech world. My journey showcases that curiosity, consistency, and hard work can break any barriers.
-
- # Past Experience💼
-## React js Frontend Developer Intern | Get Your Homes
-📅 Duration: 2 months
-
-→ Tech Stack: React.js, Framer Motion, Context API, Tailwind CSS
-→Built a fully responsive and interactive dashboard that dynamically updates real-time data.
-→Integrated Framer Motion to add smooth animations and enhance user experience.
-→Worked closely with the design team and project manager, improving collaboration and communication skills.
-→Strengthened expertise in React Hooks, Context API, and component reusability.
-
-# Notable Projects🚀
-
-## AI-Powered Text-to-Image Generator
-
-→ Built using MERN Stack & Hugging Face AI Models
-→ Saves generated images on Cloudinary
-→ Users can download images seamlessly
-→ UI designed with Tailwind CSS
-
-## Resume Screening NLP Application
-
-→ Developed from scratch using NLP techniques
-→ Analyzes resumes against job descriptions
-→ Identifies missing keywords, calculates match percentage
-→ Built with Streamlit & PyPDF2
-
-## ATS Resume Screening (Google Gemini AI)
-
-→ Uses Google Gemini AI to analyze resumes against job descriptions
-→ Extracts text from PDFs, evaluates ATS compatibility, and calculates match percentage
-→ Identifies missing keywords and provides profile summaries
-→ Developed using Streamlit, Google Generative AI, and PyPDF2
-
-## Real-Time Crypto Tracker
-→ Built using React.js & Chakra UI
-→ Fetches live data for 149+ cryptocurrencies from CoinGecko API
-→ Displays 24-hour price variations, highs, and lows
-→ Fully responsive and user-friendly UI 🚀
-
-## Student Marks Prediction (ML Model)
-→ Implements multiple ML models internally
-→ Returns predictions based on highest accuracy model
-→ Built with Flask for UI
-
-## K-Nearest Neighbors (KNN) Classifier (Practice Project)
-→ Implemented in Jupyter Notebook
-→ Explored k-NN algorithm for classification tasks
-
-## Housing Price Prediction (ML Model)
-→ Applied Multiple Linear Regression
-→ Explored feature engineering & regularization techniques
-→ Analyzed model accuracy & areas for improvement
+I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned into data science and Machine Learning field out of sheer passion. Despite not having a CS background, I have self-taught programming and built real-world projects, proving that dedication and skills matter more than degree labels.
 
 ## Transitioning from Mechanical to Tech🎯
 Coming from Mechanical Engineering, I self-taught programming and proved that passion & hard work can bridge any gap.
@@ -66,11 +11,11 @@ Worked extensively on AI & NLP projects, handling end-to-end development from mo
 →Solved 250+ DSA questions across platforms
 →Strong in Data Structures, Algorithms, and Problem-Solving
 →Focused on Optimized Solutions & Time Complexity Reduction
-📬 Let's Connect!
+
+📬 ## Let's Connect!
 💌 Email: talkeenahmad4@gmail.com
 
 
-I’m always open to collaborating on exciting projects and learning new technologies. Feel free to reach out! 🚀
 
 
 
