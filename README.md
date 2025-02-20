@@ -1,4 +1,4 @@
-# I am Data Science and Machine Learning enthusiast | Web Developer | Problem Solver🚀
+# I am Data Science and Machine Learning enthusiast || Problem Solver🚀
 ## About Me👨‍💻 
 I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned into data science and Machine Learning field out of sheer passion. Despite not having a CS background, I have self-taught programming and built real-world projects, proving that dedication and skills matter more than degree labels.
 
@@ -12,7 +12,7 @@ Worked extensively on AI & NLP projects, handling end-to-end development from mo
 →Strong in Data Structures, Algorithms, and Problem-Solving
 →Focused on Optimized Solutions & Time Complexity Reduction
 
-📬 ## Let's Connect!
+## Let's Connect! 📬
 💌 Email: talkeenahmad4@gmail.com
 
 
