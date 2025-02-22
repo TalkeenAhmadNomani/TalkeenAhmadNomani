@@ -10,7 +10,6 @@ I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned i
 
 
 
-
 <!---
 TalkeenAhmadNomani/TalkeenAhmadNomani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
