@@ -2,11 +2,8 @@
 ## About Me👨‍💻 
 I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned into data science and Machine Learning field out of sheer passion. Despite not having a CS background, I have self-taught programming and built real-world projects, proving that dedication and skills matter more than degree labels.
 
-## Let's Connect! 📬
+## Let's Connect!📬
 💌 Email: talkeenahmad4@gmail.com
-
-
-
 
 
 
