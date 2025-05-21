@@ -1,7 +1,10 @@
 # I am Data Science and Machine Learning enthusiast || Problem Solver
-## About Me👨‍💻 
-I am a 3rd-year Mechanical Engineering student at NIT Silchar who transitioned into data science and Machine Learning field out of sheer passion. Despite not having a CS background, I have self-taught programming and built real-world projects, proving that dedication and skills matter more than degree labels.
 
+I am a results-oriented Data Science professional with a strong command of Data Structures and Algorithms, which enables me to write optimized and efficient code for real-world applications. My expertise spans across machine learning, statistical analysis, and building scalable data pipelines using Python, MongoDB, and cloud platforms like AWS.
+
+I have successfully implemented end-to-end ML workflows involving data ingestion, validation, transformation, model training, and deployment with MLOps practices including Docker, GitHub Actions, and EC2. I am also proficient in working with large datasets and deriving actionable insights through data-driven decision-making.
+
+My strengths lie in analytical thinking, clean code practices, and the ability to quickly adapt to new tools and technologies. I’m eager to bring this blend of data science expertise and algorithmic problem-solving into a dynamic team to build impactful solutions.
 ## Let's Connect!📬
 💌 Email: talkeenahmad4@gmail.com
 <!---
