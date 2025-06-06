@@ -4,7 +4,7 @@ I am a results-driven Data Science and Machine Learning enthusiast with a strong
 
 I’ve designed and deployed end-to-end ML workflows—from data preprocessing and feature engineering to model training, evaluation, and deployment—adhering to MLOps practices with tools like Docker, GitHub Actions, and EC2. I'm also proficient in working with high-dimensional data and applying techniques such as gradient-based optimization, regularization, and neural networks to solve real-world problems.
 
-With a solid grasp of data structures and algorithms, I write efficient, optimized code, but my core strength lies in analytical thinking, mathematical intuition, and the ability to rapidly grasp new frameworks and research. I’m eager to contribute to teams focused on building innovative, data-driven products with real-world impact.
+With a solid grasp of data structures and algorithms, i write efficient, optimized code, but my core strength lies in analytical thinking, mathematical intuition, and the ability to rapidly grasp new frameworks and research. I’m eager to contribute to teams focused on building innovative, data-driven products with real-world impact.
 ## Let's Connect!
 💌 Email: talkeennomani@gmail.com
 <!---
