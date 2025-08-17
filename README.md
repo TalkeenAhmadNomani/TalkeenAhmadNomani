@@ -1,6 +1,6 @@
 # I am Talkeen Ahmad Nomani || Problem Solver
 
-Student at NIT SILCHAR passionate about #data
+Student at NIT SILCHAR passionate about *data*
 ## Let's Connect!
 💌 Email: talkeennomani@gmail.com or at talkeennomani@gmail.com
 
