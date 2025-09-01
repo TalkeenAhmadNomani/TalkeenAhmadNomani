@@ -5,7 +5,13 @@ Student at NIT SILCHAR passionate about *tech*
 💌 Email: talkeennomani@gmail.com or at talkeennomani@gmail.com
 # Hi, I'm Talkeen 👋
 
-🚀 MERN Stack Developer | 🎯 Problem Solver | 💡 Machine Learning Enthusiast  
+💡 Machine Learning Enthusiast  | 🚀 MERN Stack Developer | 🎯 Problem Solver | 
+
+
+## 📊 GitHub Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkeenAhmadNomani&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=TalkeenAhmadNomani&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkeenAhmadNomani&layout=compact&theme=radical)
 
 ## 🛠️ Tech Stack
 - **Languages:** C++, JavaScript, Python  
@@ -15,10 +21,6 @@ Student at NIT SILCHAR passionate about *tech*
 - **data science** machine learning, deep learning, scikit-learn
 - **Others:** Git, GitHub, Cloudinary, HuggingFace API  
 
-## 📊 GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkeenAhmadNomani&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=TalkeenAhmadNomani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkeenAhmadNomani&layout=compact&theme=radical)
 
 
 💬 Ask me about **Web Development, React, Node.js, DSA**
