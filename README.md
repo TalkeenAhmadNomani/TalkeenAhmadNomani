@@ -11,7 +11,8 @@ Student at NIT SILCHAR passionate about *tech*
 - **Languages:** C++, JavaScript, Python  
 - **Frontend:** React.js, Tailwind CSS, Chakra UI  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
+- **Database:** MongoDB, MySQL
+- **data science** machine learning, deep learning, scikit-learn
 - **Others:** Git, GitHub, Cloudinary, HuggingFace API  
 
 ## 📊 GitHub Stats
@@ -19,10 +20,6 @@ Student at NIT SILCHAR passionate about *tech*
 ![Stats](https://github-readme-stats.vercel.app/api?username=TalkeenAhmadNomani&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkeenAhmadNomani&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
-- [AI Image Generator](https://github.com/your-repo) – Text-to-Image using Hugging Face & MERN  
-- [Crypto App](https://github.com/your-repo) – Real-time Cryptocurrency Tracker with Charts  
-- [PrepXpert](https://github.com/your-repo) – Student Interview Prep Website  
 
 💬 Ask me about **Web Development, React, Node.js, DSA**
 
