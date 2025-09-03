@@ -3,9 +3,8 @@
 Student at NIT SILCHAR passionate about *tech*
 ## Let's Connect!
 💌 Email: talkeennomani@gmail.com or at talkeennomani@gmail.com
-# Hi, I'm Talkeen 👋
 
-💡 Machine Learning Enthusiast  | 🚀 MERN Stack Developer | 🎯 Problem Solver | 
+## Machine Learning Enthusiast  |  MERN Stack Developer |  Problem Solver | 
 
 
 ## 📊 GitHub Stats
