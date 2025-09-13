@@ -6,12 +6,6 @@ Student at NIT SILCHAR passionate about *tech*
 
 ## Machine Learning Enthusiast  |  MERN Stack Developer |  Problem Solver | 
 
-
-## 📊 GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkeenAhmadNomani&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=TalkeenAhmadNomani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkeenAhmadNomani&layout=compact&theme=radical)
-
 ## 🛠️ Tech Stack
 - **Languages:** C++, JavaScript, Python  
 - **Frontend:** React.js, Tailwind CSS, Chakra UI  
