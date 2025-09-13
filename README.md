@@ -9,14 +9,11 @@ Student at NIT SILCHAR passionate about *tech*
 ## 🛠️ Tech Stack
 - **Languages:** C++, JavaScript, Python  
 - **Frontend:** React.js, Tailwind CSS, Chakra UI  
-- **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL
 - **data science** machine learning, deep learning, scikit-learn
 - **Others:** Git, GitHub, Cloudinary, HuggingFace API  
 
 
-
-💬 Ask me about **Web Development, React, Node.js, DSA**
 
 <!---
 TalkeenAhmadNomani/TalkeenAhmadNomani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
